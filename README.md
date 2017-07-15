@@ -39,6 +39,7 @@ Thêm, xóa, sửa dữ liệu từ trang quản trị.
 - Mục đích: Đưa ra các quy ước khi coding với ngôn ngữ lập trình C#, với các quy tắc này giúp tiết kiệm thời gian rất lớn trong tiến trình phát triển phần mềm và cả trong quá trình bảo trì sản phẩm. Giúp sinh viên quen với làm việc theo nhóm. Tài liệu này chủ yếu hướng dẫn sinh viên với ngôn ngữ lập trình C#, nhưng có rất nhiều quy tắc được sử dụng trong nhiều ngôn ngữ lập trình khác tích hợp trong bộ công cụ Visual Studio .NET.
 
 - Phạm vi áp dụng: Những lập trình viên tham gia dự án phát triển bằng ngôn ngữ C# và công cụ Visual Studio .Net.
+* CHI TIẾT VỀ CHUẨN LẬP TRÌNH [xin xem tại đây](https://github.com/GroupACCProject4305/Project_4305/blob/master/Document/Chuanlaptrinh.md)
 
 ## Nền tảng xây dựng
 
