@@ -17,7 +17,7 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 
 - Nguyễn Quốc Cường|01696249463|niiallstyle196@gmail.com
 
-- Nguyễn Lê Phú Cường||nguyenlephucuong112@gmail.com 
+- Nguyễn Lê Phú Cường|01263737789|nguyenlephucuong112@gmail.com 
 ## Giấy phép
 
 Đồ án này được cấp phép theo giấy phép của General Public License - xem file [LICENSE.md](https://github.com/GroupACCProject4305/Project_4305/blob/master/Document/LICENSE.md) để biết thêm chi tiết.
