@@ -1,0 +1,46 @@
+E:\btc#\project\QLphongkham\QLphongkham\bin\Debug\QLphongkham.exe.config
+E:\btc#\project\QLphongkham\QLphongkham\bin\Debug\QLphongkham.exe
+E:\btc#\project\QLphongkham\QLphongkham\bin\Debug\QLphongkham.pdb
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.csprojResolveAssemblyReference.cache
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.Properties.Resources.resources
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.thongtinbenhnhan.resources
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.csproj.GenerateResource.Cache
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.exe
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.pdb
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.thuoc.resources
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.hoadon.resources
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.chitiettoathuoc.resources
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.phieukham.resources
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.qlpk.resources
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.laptoathuoc.resources
+E:\btc#\project\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.baocaodoanhthu.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\bin\Debug\QLphongkham.exe.config
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\bin\Debug\QLphongkham.exe
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\bin\Debug\QLphongkham.pdb
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.csprojResolveAssemblyReference.cache
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.Properties.Resources.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.baocaodoanhthu.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.chitiettoathuoc.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.hoadon.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.laptoathuoc.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.phieukham.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.thongtinbenhnhan.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.thuoc.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.qlpk.resources
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.csproj.GenerateResource.Cache
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.exe
+E:\de-tai\c-sharp\source code\QLphongkham\QLphongkham\obj\Debug\QLphongkham.pdb
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\bin\Debug\QLphongkham.exe.config
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.exe
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.pdb
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.Properties.Resources.resources
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.baocaodoanhthu.resources
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.chitiettoathuoc.resources
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.hoadon.resources
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.laptoathuoc.resources
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.phieukham.resources
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.thongtinbenhnhan.resources
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.view.thuoc.resources
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.qlpk.resources
+C:\Users\user\Downloads\Compressed\QLphongkham-1\QLphongkham\QLphongkham\obj\Debug\QLphongkham.csproj.GenerateResource.Cache
