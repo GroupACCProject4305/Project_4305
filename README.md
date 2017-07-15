@@ -17,7 +17,7 @@ _Tác giả
 -Nguyễn Lê Phú Cường||nguyenlephucuong112@gmail.com 
 _Giấy phép
 
-Đồ án này được cấp phép theo giấy phép của General Public License - xem file LICENSE.md để biết thêm chi tiết.
+Đồ án này được cấp phép theo giấy phép của General Public License - xem https://github.com/GroupACCProject4305/Project_4305/blob/master/Document/LICENSE.md để biết thêm chi tiết.
 
 _Kiến thức áp dụng
 
