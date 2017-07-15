@@ -2,7 +2,7 @@
 
 # Phần mềm quản lý phòng khám tư nhân
 <p align="center">
-  <img width="350" height="300" src="">
+  <img width="350" height="300" src="https://github.com/GroupACCProject4305/Project_4305/blob/master/92052logohuunghi.png">
 </p>   
 
 Ngày nay, CNTT đã và đang đóng vai trò quan trọng trong đời sống kinh tế, xã hội của nhiều quốc gia trên thế giới, là một phần không thể thiếu trong xã hội năng động, ngày càng hiện đại hoá. Vì vậy, việc tin học hoá vào một số lĩnh vực là hoàn toàn có thể và phù hợp với xu hướng hiện nay. Xuất phát từ nhu cầu thực tế đó, trong công việc kinh doanh, việc quản lý hệ thống thông tin phong kham là một việc không thể thiếu. Nhằm thay thế một số công việc mà trước đó phải thao tác bằng tay trên giấy tờ đạt hiệu quả không cao, mất nhiều thời gian. Vì vậy, chúng em đã chọn thực hiện xây dựng một phần mềm được viết bằng ngôn ngữ C# kết nối với hệ quản trị CSDL MS SQL Server với đề tài “Xây dựng phần mềm quản lý quán phòng khám”.
@@ -20,7 +20,7 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 - Nguyễn Lê Phú Cường||nguyenlephucuong112@gmail.com 
 ## Giấy phép
 
-Đồ án này được cấp phép theo giấy phép của General Public License - xem file [LICENSE.md] (https://github.com/GroupACCProject4305/Project_4305/blob/master/Document/LICENSE.md) để biết thêm chi tiết.
+Đồ án này được cấp phép theo giấy phép của General Public License - xem file [LICENSE.md](https://github.com/GroupACCProject4305/Project_4305/blob/master/Document/LICENSE.md) để biết thêm chi tiết.
 
 ## Kiến thức áp dụng
 
@@ -66,8 +66,8 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 
 ## Tài liệu cho nhà phát triển
 
-Mời các bạn [Click đây để xem tài liệu cho nhà phát triển]
+Mời các bạn [Click xem tài liệu cho nhà phát triển](https://github.com/GroupACCProject4305/Project_4305/blob/master/Document/TLphattrien.md)
 
 ## Lời cảm ơn
 
-Để hoàn thành tốt đề tài này chúng em xin cảm ơn thầy Mai Cường Thọ – giảng viên khoa CNTT Trường Đại học Nha Trang cùng các thầy cô bộ môn Kỹ thuật phần mềm đã tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Một lần nữa chúng em xin trân trọng cảm ơn thầy Mai Cường Thọ đã tận tình giúp đỡ, hướng dẫn chúng em trong suốt quá trình thực hiện đề tài.
+Chúng em xin cảm ơn thầy Mai Cường Thọ cùng các thầy cô bộ môn Kỹ thuật phần mềm đã tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Xin trân trọng cảm ơn thầy Mai Cường Thọ một lần nữa đã tận tình giúp đỡ, hướng dẫn chúng em trong suốt quá trình thực hiện đề tài.
