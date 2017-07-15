@@ -13,7 +13,7 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 
 ## Tác giả
 
-- Lê Hoàng Ngọc Ấn||lehoangngocan4@gmail.com
+- Lê Hoàng Ngọc Ấn|01668118011|lehoangngocan4@gmail.com
 
 - Nguyễn Quốc Cường|01696249463|niiallstyle196@gmail.com
 
