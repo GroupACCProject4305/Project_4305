@@ -1,5 +1,3 @@
-# Đề tài môn học Phát triển phần mềm mã nguồn mở
-
 # Phần mềm quản lý phòng khám tư nhân
 <p align="center">
   <img width="350" height="300" src="https://github.com/GroupACCProject4305/Project_4305/blob/master/92052logohuunghi.png">
@@ -65,8 +63,10 @@ SQL Server là một hệ quản trị cơ sở dữ liệu quan hệ (Relationa
 
 SQL Server được tối ưu để có thể chạy trên môi trường cơ sở dữ liệu rất lớn (Very Large Database Environment) lên đến Tera-Byte và có thể phục vụ cùng lúc cho hàng ngàn user. SQL Server có thể kết hợp “ăn ý” với các server khác như Microsoft Internet Information Server (IIS), E-Commerce Server, Proxy Server….
 
-## Tài liệu cho nhà phát triển
+## Tài liệu thiết kế
+Mời các bạn [Click xem tài liệu thiết kế]()
 
+## Tài liệu cho nhà phát triển
 Mời các bạn [Click xem tài liệu cho nhà phát triển](https://github.com/GroupACCProject4305/Project_4305/blob/master/Document/TLphattrien.md)
 
 ## Tài liệu cho người dùng cuối
