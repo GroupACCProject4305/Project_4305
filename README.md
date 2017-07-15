@@ -68,6 +68,10 @@ SQL Server được tối ưu để có thể chạy trên môi trường cơ s�
 
 Mời các bạn [Click xem tài liệu cho nhà phát triển](https://github.com/GroupACCProject4305/Project_4305/blob/master/Document/TLphattrien.md)
 
+## Tài liệu cho người dùng cuối
+
+Mời các bạn [Click xem tài liệu cho người dùng cuối](https://github.com/GroupACCProject4305/Project_4305/blob/master/Document/TLnguoidung.md)
+
 ## Lời cảm ơn
 
 Chúng em xin cảm ơn thầy Mai Cường Thọ cùng các thầy cô bộ môn Kỹ thuật phần mềm đã tạo điều kiện cho chúng em nghiên cứu và hoàn thành đề tài. Xin trân trọng cảm ơn thầy Mai Cường Thọ một lần nữa đã tận tình giúp đỡ, hướng dẫn chúng em trong suốt quá trình thực hiện đề tài.
