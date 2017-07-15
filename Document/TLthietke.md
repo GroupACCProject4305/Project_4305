@@ -1,10 +1,10 @@
 # PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG
 
-	Mô hình DFD mức 0:
+### Mô hình DFD mức 0:
 
 ![](https://github.com/GroupACCProject4305/Project_4305/blob/master/image/h%C3%ACnhDFD.png)
 
-	Mô hình DFD mức 1: Các chức năng của hệ thống quản lý phòng khám
+### Mô hình DFD mức 1: Các chức năng của hệ thống quản lý phòng khám
 •	Module 1: Quản lý bệnh nhân
 -	Tiếp nhận bệnh nhân vào khám bệnh
 -	Tìm kiếm bệnh nhân
@@ -23,15 +23,18 @@
 -	Lập Toa Thuốc
 -	In Toa Thuốc
 ![](https://github.com/GroupACCProject4305/Project_4305/blob/master/image/modu3.png)
+
 -	Lập Hóa Đơn Thuốc
 -	In Hóa Đơn Thuốc
 ![](https://github.com/GroupACCProject4305/Project_4305/blob/master/image/modu3-2.png)
+
 -	Lập báo cáo doanh thu theo ngày
 ![](https://github.com/GroupACCProject4305/Project_4305/blob/master/image/modu3-3.png)
+
 -	Lập báo cáo sự dụng thuốc
 ![](https://github.com/GroupACCProject4305/Project_4305/blob/master/image/modul3-4.png)
 
-Mô hình ERD
+### Mô hình ERD
 
 ![](https://github.com/GroupACCProject4305/Project_4305/blob/master/image/hinhERL.png)
 
@@ -49,6 +52,6 @@ ABC : Khóa ngoại.
 -	Thuộc tính Cachdung: cách dùng của mỗi loại thuốc ứng với toa thuốc hiện hành.
 -	Bảng CSDL CHITIETHOADON: Diễn tả chi tiết hóa đơn gồm số lượng và cách dùng ứng với mỗi loại thuốc có trong Toa Thuoc.
 
-MÔ HÌNH QUAN HỆ
+### MÔ HÌNH QUAN HỆ
 
 ![](https://github.com/GroupACCProject4305/Project_4305/blob/master/image/hinhqh.png)
